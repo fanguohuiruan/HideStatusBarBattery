@@ -47,8 +47,6 @@ class ViewController: UIViewController {
         }
        */
 
-
-
     }
     func method1(){
 
