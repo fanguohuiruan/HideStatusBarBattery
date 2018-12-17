@@ -13,6 +13,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let list = [10, 20, 40, 50]
+        for value in list {
+            print(value);
+        }
         //添加一段注释
         // Do any additional setup after loading the view, typically from a nib.
         //前提要知道，Application -> statusBar -> 电池视图
