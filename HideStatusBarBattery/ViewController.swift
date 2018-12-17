@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        //添加一段注释
         // Do any additional setup after loading the view, typically from a nib.
         //前提要知道，Application -> statusBar -> 电池视图
         //第一种方法就是通过遍历子视图的方式，查找到电池视图，（默认知道电池视图对应的view名字是 ‘UIStatusBarBatteryItemView’）
