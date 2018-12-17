@@ -17,6 +17,12 @@ class ViewController: UIViewController {
         for value in list {
             print(value);
         }
+
+        //dsfasfasdf
+        //sadfasdfas
+        //sdfasdfas
+        //sdfasfsad
+        
         //添加一段注释
         // Do any additional setup after loading the view, typically from a nib.
         //前提要知道，Application -> statusBar -> 电池视图
