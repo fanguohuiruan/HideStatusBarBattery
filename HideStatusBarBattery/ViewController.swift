@@ -28,6 +28,18 @@ class ViewController: UIViewController {
             print(value);
         }
 
+        let list3 = [10, 20, 40, 50]
+        for value in list {
+            print(value);
+        }
+
+
+        let list4 = [10, 20, 40, 50]
+        for value in list {
+            print(value);
+        }
+
+
         //dsfasfasdf
         //sadfasdfas
         //sdfasdfas
